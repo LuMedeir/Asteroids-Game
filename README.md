@@ -4,7 +4,7 @@
 Este projeto visa recriar o clássico jogo Asteroids utilizando Python para o frontend e backend, e PostgreSQL para armazenamento de dados. Adicionalmente, será implementado um sistema ELT (Extract, Load, Transform) para manipulação e análise dos dados do jogo, utilizando Airbyte para coleta, ClickHouse para armazenamento e Metabase para visualização.
 
 <p align="center">
-<img src="./game/image.png">
+<img src="image.png">
 </p>
 <p align="center">
     
